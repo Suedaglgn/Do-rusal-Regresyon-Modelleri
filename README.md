@@ -7,7 +7,7 @@
 - PCR
 - PLS
 - Ridge
-- Lass0
+- Lasso
 - ElasticNet
 - SVR
 
