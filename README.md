@@ -9,6 +9,7 @@
 - Ridge
 - Lass0
 - ElasticNet
+- SVR
 
 
 #### Bu repository Vahit Keskin'in Udemy eğitiminden derlenmiştir.
